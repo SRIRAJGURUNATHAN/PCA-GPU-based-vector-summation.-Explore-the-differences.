@@ -25,8 +25,8 @@ Save and Run the Program.
 
 ### PROGRAM:
 ```
-Name : SRIRAJ G
-Register No : 212222040161
+Developed By: SRIRAJ G
+Register No.: 212222040161
 ```
 
 (i) block.x=1023
